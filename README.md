@@ -1,6 +1,9 @@
 🧮 Gauth Clone Math
 Una aplicación interactiva construida con Streamlit y Google Gemini API diseñada para ayudar a los usuarios a resolver problemas matemáticos complejos, proporcionando explicaciones detalladas paso a paso.
 
+visita el siguiente enlace para usarlo de manera gratuita:
+https://gapp-clone-math-thxnfxgcdkzpeonjpbtnvn.streamlit.app/
+
 🚀 Características
 Resolución de Ecuaciones: Capacidad para procesar y resolver una amplia variedad de problemas matemáticos.
 
